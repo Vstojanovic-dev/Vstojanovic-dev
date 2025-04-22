@@ -1,8 +1,7 @@
 ## Hi there 👋
-
-Veljko Stojanovic
-UNI: FERI v Mariboru - IPT UN 1.
-Trying thing out.....
+- Veljko Stojanovic
+- UNI: FERI v Mariboru - IPT UN 1.
+- Trying thing out.....
 
 
 <!--
@@ -18,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
