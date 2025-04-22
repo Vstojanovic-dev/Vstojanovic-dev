@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Veljko Stojanovic
+UNI: FERI v Mariboru - IPT UN 1.
+Trying thing out.....
+
+
 <!--
 **Vstojanovic-dev/Vstojanovic-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
